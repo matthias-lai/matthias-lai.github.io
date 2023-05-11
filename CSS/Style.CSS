@@ -10,7 +10,7 @@ body{
     background-color: white;
     position: fixed;
     top: 0;
-
+    padding-bottom: 5px;
 }
 .menu a{
     display: block;
